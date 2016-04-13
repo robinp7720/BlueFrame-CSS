@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url("https://i.imgur.com/kyTugXH.jpg") fixed; }
+  background: white fixed; }
 
 .panel {
   border: rgba(0, 0, 0, 0.1) solid 1px; }
